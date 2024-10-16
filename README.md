@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Alfchristo/Alfchristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Christopher,** a passionate data analyst and aspiring data engineer with a strong foundation in Python, Java, SQL, and various data tools. I'm eager to leverage my skills to drive data-driven insights and solutions.
 
-Here are some ideas to get you started:
+**My technical skills include:**
+* **Programming:** Python, Java (Spring Boot), SQL, MongoDB, React, Node.js
+* **Data Tools:** Power BI, Tableau, KNIME, Streamlit
+* **Infrastructure:** Docker
+I also do enjoy some light SysAdmin work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Career Goals:**
+I'm seeking opportunities to apply my data analysis and engineering skills in a dynamic environment. I'm particularly interested in roles that involve:
+* **Data engineering**
+* **Full-stack web development**
+
+My long-term goal is to gain expertise in both data and software engineering to contribute to strategic decision-making.
+
+**Beyond Tech:**
+* **Volunteering:** Actively involved in Secours Catholique for the past 5 years, serving as a team leader, treasurer, and contributing to basic IT needs.
+* **Education:** Bachelor's degree in Psychology, Coursera IBM Data Science Professional Certificate, RNCP 6 in Data Analysis, RNCP 7 in Data Engineering/Full-Stack Development.
+* **Interests:** Formula 1 
+
+**Let's connect!**
+* **LinkedIn:** www.linkedin.com/in/christopher-alfred
+* **Tableau Viz:** https://public.tableau.com/app/profile/alfred3812/vizzes
