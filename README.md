@@ -18,7 +18,6 @@ My long-term goal is to gain expertise in both data and software engineering to 
 **Beyond Tech:**
 * **Volunteering:** Actively involved in Secours Catholique for the past 5 years, serving as a team leader, treasurer, and contributing to basic IT needs.
 * **Education:** Bachelor's degree in Psychology, Coursera IBM Data Science Professional Certificate, RNCP 6 in Data Analysis, RNCP 7 in Data Engineering/Full-Stack Development.
-* **Interests:** Formula 1 
 
 **Let's connect!**
 * **LinkedIn:** www.linkedin.com/in/christopher-alfred
